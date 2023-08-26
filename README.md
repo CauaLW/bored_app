@@ -56,7 +56,3 @@ clean and maintainable codebase.
 
 - BoredAPI: [https://www.boredapi.com/](https://www.boredapi.com/)
 - Flutter: [https://flutter.dev/](https://flutter.dev/)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
